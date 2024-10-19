@@ -1,4 +1,14 @@
-### Hi there 👋
+#Hello world ✨
+
+I'm back with my blog/site after a short break. Life changes, things change, the only thing that never change is my appetite for technology.
+
+I don't have a regular, steady lifestyle like some other people do to keep up an engaging pace of posting. That's why I won't even promise more constancy of posts as usual when we are returning. I'm just going to keep going because I'm really stubborn.
+
+After a few years of blogging with the amazing WordPress and PHP, I'm finally going to have my first blog/site in C# and WebAssembly. I decided to give Blazor Wasm a try and give it a try not only because it is .NET/C#, but also because I believe that WebAssembly is a very promising technology that has come to be yet another milestone for web development and I want to be involved in it in practice. When I considered leaving WordPress — and it was a tough decision, I thought of JavaScript as a static solution. The more I discover complex things, the more I want to use my maturity to keep things simple and maintainable. But despite my extensive experience with JavaScript as well, I found that I could have a static blog/site with some other different language if I approached WebAssembly. I like to keep things simple for one reason: I can spend more time discovering more exotic things.
+
+I wouldn't be so naive as to recommend that everyone should start using/studying WebAssembly all of a sudden as if it were the best thing in the world. But during all these years of experience as a web developer I've seen a lot happening and I kind of feel in my veins when something is here to stay. Web development is no longer the same and many possibilities will still arise with WebAssembly.
+
+I hope to see you in the next posts.
 
 <!--
 **celsojr/celsojr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
